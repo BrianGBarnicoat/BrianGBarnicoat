@@ -1,72 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" viewBox="0 0 985 560" font-size="16px">
-  <style>
-    @font-face {
-      src: local('Consolas'), local('Consolas Bold');
-      font-family: 'ConsolasFallback';
-      font-display: swap;
-      -webkit-size-adjust: 109%;
-      size-adjust: 109%;
-    }
-    .key { fill: #ffa657; }
-    .value { fill: #a5d6ff; }
-    .cc { fill: #616e7f; }
-    .ascii { fill: #c9d1d9; font-size: 8px; }
-    text, tspan { white-space: pre; }
-  </style>
+# 👋 Hola, soy Brian García Barnicoat
 
-  <rect width="985" height="560" fill="#161b22" rx="15"/>
+### 💻 Desarrollador Web & Técnico IT | Profesor de Informática | Madrid, España
 
-  <text x="15" y="30" class="ascii">
-    <tspan x="15" y="30">...............................''.''''''</tspan>
-    <tspan x="15" y="50">..............................'''''''''.</tspan>
-    <tspan x="15" y="70">.......................   ....'''''''''</tspan>
-    <tspan x="15" y="90">..........................  ...''''''''</tspan>
-    <tspan x="15" y="110">...... ...,:clloddddool:;'.......'''''''</tspan>
-    <tspan x="15" y="130">.....   .,lxkkOOOOOkkkxdo:'.............</tspan>
-    <tspan x="15" y="150">........'cdxkOOOOOOkkkxxol;'........'''.</tspan>
-    <tspan x="15" y="170">''''....,codkkOOkxxxxxxddoc,........,,',</tspan>
-    <tspan x="15" y="190">''''....,:::cdxdc::::cclooo:'.. ....',,,</tspan>
-    <tspan x="15" y="210">'''''..':c:;;oxdllc:;:cldddl,..    .',,,</tspan>
-    <tspan x="15" y="230">''''''.;ooddoxxddxxxdxxkkxdl;.... .',,,,</tspan>
-    <tspan x="15" y="250">''',''':dxkxdddookOOOOOkxdol,.''..'',',,</tspan>
-    <tspan x="15" y="270">'',,,'';oxkoclllokOOOkkxdolc,,:,.''',',,</tspan>
-    <tspan x="15" y="290">''',,,',cooloddddxkkxxxdolc:;;'..''',,,,</tspan>
-    <tspan x="15" y="310">'',,,,,,;llccllloodddooollc:,. .'''',,,,</tspan>
-    <tspan x="15" y="330">',,,,,,',:loooddxddollllcc:c;..''''',,,,</tspan>
-    <tspan x="15" y="350">''',,,,,,,;ldxxxdolccllcccll;.'''''',,,,</tspan>
-    <tspan x="15" y="370">''',,,,,,'',:cccc::ccccloodo:''''''',,',</tspan>
-    <tspan x="15" y="390">''',,'',,,'',;;;;:clllodxxdoc:,'''''''''</tspan>
-    <tspan x="15" y="410">'',,,,,,,,,',;::clloodxxxxxdoolll:'''''</tspan>
-    <tspan x="15" y="430">',,,'''',;:c::clodxxxxkxxxxdxO0KX0koc;,'</tspan>
-    <tspan x="15" y="450">''',:cloddxdc:clodxxxkkxxkO0KXXXXXKKK0kx</tspan>
-    <tspan x="15" y="470">';ldkkkkkOOdlccododxkkOO0KXXXXXXXXXXKKKK</tspan>
-    <tspan x="15" y="490">:xOOOOOOO00OxxxxOOOKKKXXXXXXXXXXXXXXXXXX</tspan>
-    <tspan x="15" y="510">dkOOOOOOO00KK0KKKXXXXXXXXXXXXXXXXXXXXXXX</tspan>
-    <tspan x="15" y="530">dkOOOOOOO000KKKKXXXXXXXXXXXXXXXXXXXXXXXX</tspan>
-  </text>
+---
 
-  <text x="390" y="30" fill="#c9d1d9">
-    <tspan x="390" y="30">brian@garcia</tspan> -———————————————————————————————————————————————
-    <tspan x="390" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Windows 11, Debian Linux</tspan>
-    <tspan x="390" y="80" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Web Developer, IT Technician</tspan>
-    <tspan x="390" y="105" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Madrid, Spain</tspan>
-    <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Web Development, Systems, VPS</tspan>
-    <tspan x="390" y="155" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VS Code, GitHub</tspan>
+## 🚀 Sobre mí
 
-    <tspan x="390" y="195" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HTML, CSS, JavaScript</tspan>
-    <tspan x="390" y="220" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Scripting</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Bash, PowerShell</tspan>
-    <tspan x="390" y="245" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">SQL</tspan>
+Apasionado por el desarrollo web y la tecnología. Siempre aprendiendo y explorando nuevas herramientas para crear soluciones innovadoras. 🚀 💻
 
-    <tspan x="390" y="285" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Docker, Git, GitHub, SSH</tspan>
-    <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Nginx, DNS, SSL, VPS</tspan>
-    <tspan x="390" y="335" class="cc">. </tspan><tspan class="key">Systems</tspan>.<tspan class="key">Admin</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Linux Administration</tspan>
+Actualmente trabajo como **Profesor de Informática y Ofimática en la nube** y tengo experiencia en administración de sistemas, desarrollo web y soporte IT.
 
-    <tspan x="390" y="375">- GitHub</tspan> -——————————————————————————————————————————————————————
-    <tspan x="390" y="400" class="cc">. </tspan><tspan class="key">Profile</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">BrianGBarnicoat</tspan>
-    <tspan x="390" y="425" class="cc">. </tspan><tspan class="key">Repository</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">github.com/BrianGBarnicoat</tspan>
+---
 
-    <tspan x="390" y="465">- Status</tspan> -——————————————————————————————————————————————————————
-    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Advanced AI, Cybersecurity</tspan>
-    <tspan x="390" y="515" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Web Projects, Server Management</tspan>
-  </text>
-</svg>
+## 🛠️ Habilidades Técnicas
+
+### Sistemas Operativos
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Lenguajes de Programación
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Herramientas & Plataformas
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
+
+## 💼 Experiencia Laboral
+
+| Periodo | Puesto | Empresa / Lugar |
+|---|---|---|
+| Dic 2025 – Actualidad | 👨‍🏫 Profesor de Informática y Ofimática en la nube | Madrid |
+| Mar – Jun 2025 | 🖥️ Técnico IT – Departamento IT | DHL, Barajas |
+| Feb 2024 – Jun 2025 | 📋 Secretario academia de inglés | Fuenlabrada |
+| May – Jun 2023 | 🔧 Técnico Informático en centro escolar | Madrid |
+| Jun – Sep 2022/23/24 | 🏊 Socorrista | Madrid |
+| Jun – Sep 2021 | 🛒 Dependiente | Suministros Bricopaper, Móstoles |
+| Jun – Jul 2020 | 🛒 Dependiente | Suministros Bricopaper, Móstoles |
+
+---
+
+## 🎓 Formación Académica
+
+- 🎓 **Grado Superior DAW** – Desarrollo de Aplicaciones Web
+- 🎓 **Grado Medio SMR** – Sistemas Microinformáticos y Redes
+- 🔐 **Certificado de Profesionalidad** – Seguridad Informática
+  - MF0486 – Seguridad en equipos informáticos
+  - MF0487 – Auditoría de seguridad informática
+  - MF0488 – Gestión de incidentes de seguridad
+  - MF0489 – Sistemas seguros de acceso y transmisión de datos
+  - MF0490 – Gestión de servicios en el sistema informático
+- 🏗️ **IMAQ0210** – Desarrollo de proyectos de instalaciones de manutención, elevación y transporte (540h)
+- 🏊 Certificado de Socorrista en Piscinas e Instalaciones Acuáticas – Encesap, Móstoles
+- 🩺 Certificado de Primeros Auxilios – Encesap, Móstoles
+- 🏊 Certificado de Mantenimiento Integral de Piscinas – Encesap, Móstoles
+- 😷 Certificado de Prevención y Control de Infecciones ante COVID-19 – Encesap, Móstoles
+
+---
+
+## 🌟 Voluntariado
+
+- **II Feria del Comercio** – Fuenlabrada: Captación y animación de clientes
+- **II y III Feria por la Sensibilidad Animal** – Móstoles: Venta para recaudación y difusión de adopciones
+
+---
+
+## 🎯 Intereses
+
+- 🤖 Inteligencia Artificial local (Ollama, Claude)
+- 🔒 Ciberseguridad
+- 🖥️ Hardware y montaje de PCs
+- ☁️ VPS y administración de servidores
+- 🛒 E-commerce y dropshipping
+- 🚀 SpaceX e industria espacial
+- 🎮 Gaming: Resident Evil, Call of Duty, Roblox, VRChat
+- 🥽 Realidad Virtual (Meta Quest)
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-garcia-barnicoat-374487286)
+[![Web](https://img.shields.io/badge/Curriculum-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://curriculum.gbarnicoat.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianGBarnicoat)
+
+📍 Madrid, España &nbsp;|&nbsp; 📧 briangb4gmail.com &nbsp;|&nbsp; 📞 620 17 36 10
+
+---
+
+*"Siempre aprendiendo, siempre mejorando"* 🚀
